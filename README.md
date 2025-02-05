@@ -1,4 +1,14 @@
-## Hi there 👋
+Thomas Fuller, computer science student at Old Dominon University.  
+Started learning in C++, currently working on learning Java and Python.
+
+Courses currently enrolled in:
+- CS390: Intro to Theoretical Computer Science
+- CS355: Principles of Programming Languages 
+- CS350: Intro to Software Engineering
+- CS315: Computer Science Colloquium
+- CS270: Intro to Computer Architecture II
+
+Email: tfull013@odu.edu
 
 <!--
 **tfull013/tfull013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
